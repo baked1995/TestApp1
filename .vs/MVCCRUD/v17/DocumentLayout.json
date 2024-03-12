@@ -1,49 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\",
+  "WorkspaceRootPath": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\madhu\\source\\repos\\mvc-crud\\mvccrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\user2\\source\\repos\\baked1995\\testapp1\\mvccrud\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\user2\\source\\repos\\baked1995\\testapp1\\mvccrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\dal\\empdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\dal\\empdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\mvccrud\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\user2\\source\\repos\\baked1995\\testapp1\\mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\dal\\empdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\dal\\empdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\mvccrud\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC420777-3F75-46AC-BBCB-19C8B2218926}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -54,140 +66,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Startup.Auth.cs",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\App_Start\\Startup.Auth.cs",
-              "RelativeDocumentMoniker": "MVCCRUD\\App_Start\\Startup.Auth.cs",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\App_Start\\Startup.Auth.cs",
-              "RelativeToolTip": "MVCCRUD\\App_Start\\Startup.Auth.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:24:16.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Startup.cs",
-              "RelativeDocumentMoniker": "MVCCRUD\\Startup.cs",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Startup.cs",
-              "RelativeToolTip": "MVCCRUD\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:23:41.171Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:36:00.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:06:40.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Startup.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Startup.cs",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Startup.cs",
+              "RelativeToolTip": "MVCCRUD\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:23:41.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Web.config",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Web.config",
               "RelativeDocumentMoniker": "MVCCRUD\\Web.config",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Web.config",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Web.config",
               "RelativeToolTip": "MVCCRUD\\Web.config",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-03-07T12:23:19.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "MVCCRUD\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:32:58.719Z"
+              "WhenOpened": "2024-03-07T12:32:58.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpDAL.cs",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\DAL\\EmpDAL.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\DAL\\EmpDAL.cs",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\DAL\\EmpDAL.cs",
+              "RelativeToolTip": "MVCCRUD\\DAL\\EmpDAL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwDsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:40:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVCCRUD\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAADwv5kAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:28:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\packages.config",
+              "RelativeDocumentMoniker": "MVCCRUD\\packages.config",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\packages.config",
+              "RelativeToolTip": "MVCCRUD\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-07T14:04:09.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmpDAL.cs",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\DAL\\EmpDAL.cs",
-              "RelativeDocumentMoniker": "MVCCRUD\\DAL\\EmpDAL.cs",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\DAL\\EmpDAL.cs",
-              "RelativeToolTip": "MVCCRUD\\DAL\\EmpDAL.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:40:46.258Z"
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T17:08:03.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "MVCCRUD\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAIwJkAAAAuAAAA",
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "MVCCRUD\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:28:07.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\packages.config",
-              "RelativeDocumentMoniker": "MVCCRUD\\packages.config",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\packages.config",
-              "RelativeToolTip": "MVCCRUD\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-07T14:04:09.377Z"
+              "WhenOpened": "2024-03-07T12:29:51.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AccountViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Models\\AccountViewModels.cs",
-              "RelativeDocumentMoniker": "MVCCRUD\\Models\\AccountViewModels.cs",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Models\\AccountViewModels.cs",
-              "RelativeToolTip": "MVCCRUD\\Models\\AccountViewModels.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAA5wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:29:51.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpModel.cs",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Models\\EmpModel.cs",
-              "RelativeDocumentMoniker": "MVCCRUD\\Models\\EmpModel.cs",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Models\\EmpModel.cs",
-              "RelativeToolTip": "MVCCRUD\\Models\\EmpModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:30:05.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Views\\Employee\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCCRUD\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Views\\Employee\\Create.cshtml",
               "RelativeToolTip": "MVCCRUD\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T12:40:08.763Z"
+              "WhenOpened": "2024-03-07T12:40:08.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Models\\EmpModel.cs",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Models\\EmpModel.cs",
+              "RelativeToolTip": "MVCCRUD\\Models\\EmpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:30:05.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "MVCCRUD\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:24:16.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Project_Readme.html",
-              "DocumentMoniker": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Project_Readme.html",
+              "DocumentMoniker": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Project_Readme.html",
               "RelativeDocumentMoniker": "MVCCRUD\\Project_Readme.html",
-              "ToolTip": "C:\\Users\\madhu\\source\\repos\\MVC-CRUD\\MVCCRUD\\Project_Readme.html",
+              "ToolTip": "C:\\Users\\User2\\source\\repos\\baked1995\\TestApp1\\MVCCRUD\\Project_Readme.html",
               "RelativeToolTip": "MVCCRUD\\Project_Readme.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-07T12:23:30.761Z"
+              "WhenOpened": "2024-03-07T12:23:30.761Z",
+              "EditorCaption": ""
             }
           ]
         }

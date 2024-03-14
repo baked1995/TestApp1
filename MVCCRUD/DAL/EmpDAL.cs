@@ -1,4 +1,4 @@
-﻿using MVCCRUD.Models;
+using MVCCRUD.Models;
 using MVCCRUD.Service;
 using System;
 using System.Collections.Generic;
@@ -36,12 +36,17 @@ namespace MVCCRUD.DAL
                     sqlConnection.Open();
 
                     // Execute the INSERT statement and retrieve the inserted identity value
-                    insertedId = Convert.ToInt32(command.ExecuteScalar());
+                    object result = command.ExecuteScalar();
+                    if (result != null && result != DBNull.Value)
+                    {
+                        insertedId = Convert.ToInt32(result);
+                    }
                 }
             }
 
             return insertedId;
         }
+
 
 
         /// <summary>
@@ -82,46 +87,54 @@ namespace MVCCRUD.DAL
 		/// <param name="empModel">Employee model object</param>
 		/// <returns>Returns int if successfully updated</returns>
 		public int Update(EmpModel empModel)
-		{
-			SqlConnection sqlConnection = new SqlConnection(ConnectionString);
+        {
+            using (SqlConnection sqlConnection = new SqlConnection(ConnectionString))
+            {
+                using (SqlCommand command = new SqlCommand())
+                {
+                    command.CommandText = "UPDATE EmpModel SET name = @Name, age = @Age WHERE id = @Id;";
+                    command.Parameters.AddWithValue("@Name", empModel.Name);
+                    command.Parameters.AddWithValue("@Age", empModel.Age);
+                    command.Parameters.AddWithValue("@Id", empModel.Id);
+                    command.Connection = sqlConnection;
 
-			SqlCommand command = new SqlCommand();
-			command.CommandText = string.Format("update EmpModel set name='{0}', age={1} where id={2};", empModel.Name, empModel.Age, empModel.Id);
-			command.Connection = sqlConnection;
+                    sqlConnection.Open();
+                    int rowsAffected = command.ExecuteNonQuery();
+                    return rowsAffected;
+                }
+            }
+        }
 
-			sqlConnection.Open();
-			int update = Convert.ToInt32(command.ExecuteScalar());
-			sqlConnection.Close();
-			return update;
-		}
+        /// <summary>
+        /// Deletes the employee for the given id
+        /// </summary>
+        /// <param name="empModel">EmpModel object</param>
+        /// <returns></returns>
+        public int Delete(EmpModel empModel)
+        {
+            using (SqlConnection sqlConnection = new SqlConnection(ConnectionString))
+            {
+                using (SqlCommand command = new SqlCommand())
+                {
+                    command.CommandText = "DELETE FROM EmpModel WHERE id = @Id;";
+                    command.Parameters.AddWithValue("@Id", empModel.Id);
+                    command.Connection = sqlConnection;
 
-		/// <summary>
-		/// Deletes the employee for the given id
-		/// </summary>
-		/// <param name="empModel">EmpModel object</param>
-		/// <returns></returns>
-		public int Delete(EmpModel empModel)
-		{
-			SqlConnection sqlConnection = new SqlConnection(ConnectionString);
+                    sqlConnection.Open();
+                    int rowsAffected = command.ExecuteNonQuery();
+                    return rowsAffected;
+                }
+            }
+        }
+        #endregion
 
-			SqlCommand command = new SqlCommand();
-			command.CommandText = string.Format("delete from  where id={0};", empModel.Id);
-			command.Connection = sqlConnection;
-
-			sqlConnection.Open();
-			int update = Convert.ToInt32(command.ExecuteScalar());
-			sqlConnection.Close();
-			return update;
-		}
-		#endregion
-
-		#region Get Employee details
-		/// <summary>
-		/// Gets employee details for the given id
-		/// </summary>
-		/// <param name="empModel">Employee Model</param>
-		/// <returns>Returns Employee details</returns>
-		public EmpModel GetEmployee(EmpModel empModel)
+        #region Get Employee details
+        /// <summary>
+        /// Gets employee details for the given id
+        /// </summary>
+        /// <param name="empModel">Employee Model</param>
+        /// <returns>Returns Employee details</returns>
+        public EmpModel GetEmployee(EmpModel empModel)
 		{
 			SqlConnection sqlConnection = new SqlConnection(ConnectionString);
 			SqlCommand command = new SqlCommand();
@@ -143,3 +156,4 @@ namespace MVCCRUD.DAL
 
 	}
 }
+
